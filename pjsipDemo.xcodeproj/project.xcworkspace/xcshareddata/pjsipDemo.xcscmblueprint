@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "530dfc1f-48a7-d345-96e9-633195d9439a++2586" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "530dfc1f-48a7-d345-96e9-633195d9439a++2586" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8864AFC3-6999-4944-A83F-7B5A09761D92",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "530dfc1f-48a7-d345-96e9-633195d9439a++2586" : "FYDH\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "pjsipDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "pjsipDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/10.20.1.30\/svn\/mobile-ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "530dfc1f-48a7-d345-96e9-633195d9439a++2586"
+    }
+  ]
+}
